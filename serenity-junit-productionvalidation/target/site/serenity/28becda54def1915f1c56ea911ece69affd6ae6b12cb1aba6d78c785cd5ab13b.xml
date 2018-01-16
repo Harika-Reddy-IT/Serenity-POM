@@ -1,0 +1,144 @@
+<acceptance-test-run title="Production validation" name="production_validation" steps="46" successful="46" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="439082" timestamp="2017-01-25T16:19:02.768-08:00" session-id="d525c367-e497-4c94-b947-38186757e030">
+  <user-story id="net.thucydides.productionvalidation.junit.features.ProductionValidationTest" name="Production validation test" path="net.thucydides.productionvalidation.junit.features"/>
+  <tags>
+    <tag name="Production validation test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="4391">
+    <description>Opens home page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2699">
+    <description>Click on cms tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2645">
+    <description>Enter claim number: 1376114 </description>
+  </test-step>
+  <test-step result="SUCCESS" duration="16499">
+    <description>Click on search btn</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="40884">
+    <description>Click on captioned report link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3023">
+    <description>Click on cause summary link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3000">
+    <description>Click on cru link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="8851">
+    <description>Click on claimat list link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="416">
+    <description>Click on cause list tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5254">
+    <description>Click on additional info tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="4527">
+    <description>Click on additional claimants tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="4768">
+    <description>Click on claimant transaction tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="12187">
+    <description>Click on claimants tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="15401">
+    <description>Click on medical expense tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7052">
+    <description>Click on facts tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5683">
+    <description>Click on injury tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="6255">
+    <description>Click on damages tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5028">
+    <description>Click on medicare tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="6131">
+    <description>Click on supervisory comment tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="13386">
+    <description>Click on negotiations tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="20723">
+    <description>Click on coverage tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="5187">
+    <description>Click on view draft tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="4555">
+    <description>Click on task list tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="10304">
+    <description>Click on main claims tab</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="4113">
+    <description>Click on correnspondence list link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="10204">
+    <description>Click on add dairy list link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2629">
+    <description>Click on view dairy list link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="18358">
+    <description>Click on add documents link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7444">
+    <description>Click on view documents link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2500">
+    <description>Click on dmv link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2604">
+    <description>Click on involved parties link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2449">
+    <description>Click on litigation link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="40552">
+    <description>Click on add notes link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="7597">
+    <description>Click on view notes link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="6255">
+    <description>Click on photos link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2053">
+    <description>Click on recovery transmittal link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3546">
+    <description>Click on reinsurance recap link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="58107">
+    <description>Click on salvage link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="24549">
+    <description>Click on siu link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3210">
+    <description>Click on  subpoena link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="18598">
+    <description>Click on  subrogation link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2623">
+    <description>Enter claim number: 1304996 </description>
+  </test-step>
+  <test-step result="SUCCESS" duration="4123">
+    <description>Click on search btn</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2649">
+    <description>Click on fence worksheet link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2685">
+    <description>Click on new claim link</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3276">
+    <description>Click on search link</description>
+  </test-step>
+</acceptance-test-run>
